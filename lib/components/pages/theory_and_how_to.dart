@@ -85,7 +85,7 @@ class AvailabilityVsPrioritizationText extends Column {
         "In the past, we had times during which we suffered from boredom. Things that where fun and useful were hard to come by. Today, we have access to endless amounts of entertainment, education, news, food delivery, amazon deliveries, ... The challenge no longer consists of getting access to enticing things but to decide where to put ones attention."
       ),
       Text(
-        "In our age of information and consumption, it is an important skill to set ones priorities and act accordingly. We hope this app helps you develop a feeling for what you truely want to focus on"
+        "In our age of information and consumption, it is an important skill to set ones priorities and act accordingly. We hope this app helps you develop a feeling for what you truely want to focus on."
       )
     ],
   );

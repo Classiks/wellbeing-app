@@ -1,20 +1,14 @@
-# This is a test upload
-# second test
-# third
-# fourth
-# wellbeing
+# Wellbeing App
+[Website](https://wellbeing-d402b.web.app/#/) <br />
+The app is optimized for mobile use.
 
-A new Flutter project.
+## Aim
+The app allow you to track your activities through the day and log how much wellbeing (not pleasure!) it resulted in. <br />
+Hopefully, this can help you find out what you want to spend your time in and what to reduce or cut out of your life.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Theory
+In todays fast pace times, it is sometimes hard to keep track of how you spend your time. Too often this leads to us spending our time mainly on things, that we don't enjoy or that result in discontentment later on (even if we are free to do whatever we want). <br />
+Even further, things that are supposed to be fun, like watching a movie or playing a game, can become a taxing if we do them too often. This is the case for many people with video games, for example. <br />
+<br />
+In the past, we had times during which we suffered from boredom. Things that where fun and useful were hard to come by. Today, we have access to endless amounts of entertainment, education, news, food delivery, amazon deliveries, ... The challenge no longer consists of getting access to enticing things but to decide where to put ones attention. <br />
+In our age of information and consumption, it is an important skill to set ones priorities and act accordingly. We hope this app helps you develop a feeling for what you truely want to focus on.
