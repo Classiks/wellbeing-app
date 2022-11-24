@@ -48,3 +48,4 @@ app.*.map.json
 
 # Customs
 /lib/firebase_options.dart
+todo.md
