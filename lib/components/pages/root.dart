@@ -49,6 +49,7 @@ class Root extends ConsumerWidget {
 
     Widget bodyWidget;
     Widget? floatingActionButton;
+    Showcase? floatActionButtonWithShowcase;
 
     switch (screenType) {
       case ScreenType.tabletLike:
@@ -80,6 +81,11 @@ class Root extends ConsumerWidget {
             MaterialPageRoute(builder: (context) => const Logger()),
           ),
         );
+        floatActionButtonWithShowcase = Showcase(
+            key: globalKeyFloatingActionButton,
+            description: floatingActionButtonShowcaseText,
+            child: floatingActionButton
+        );
         break;
     }
 
@@ -96,7 +102,7 @@ class Root extends ConsumerWidget {
         appBar = AppBar(title: const Text('Wellbeing App'),);
         drawer = const CustomSideDrawer();
         break;
-    } 
+    }
 
 
     ShowCaseWidget scaffoldWithShowCase = ShowCaseWidget(
@@ -104,11 +110,7 @@ class Root extends ConsumerWidget {
         builder: (context) => Scaffold(
           appBar: appBar,
           body: bodyWidget,
-          floatingActionButton: Showcase(
-            key: globalKeyFloatingActionButton,
-            description: floatingActionButtonShowcaseText,
-            child: floatingActionButton!
-          ),
+          floatingActionButton: floatActionButtonWithShowcase,
           bottomNavigationBar: navigation,
           drawer: drawer,
           resizeToAvoidBottomInset: false,
