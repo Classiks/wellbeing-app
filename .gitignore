@@ -49,3 +49,7 @@ app.*.map.json
 # Customs
 /lib/firebase_options.dart
 todo.md
+all_lines.txt
+countlines.py
+write_all_lines.py
+firebase.json
