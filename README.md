@@ -11,4 +11,4 @@ In todays fast pace times, it is sometimes hard to keep track of how you spend y
 Even further, things that are supposed to be fun, like watching a movie or playing a game, can become a taxing if we do them too often. This is the case for many people with video games, for example. <br />
 <br />
 In the past, we had times during which we suffered from boredom. Things that where fun and useful were hard to come by. Today, we have access to endless amounts of entertainment, education, news, food delivery, amazon deliveries, ... The challenge no longer consists of getting access to enticing things but to decide where to put ones attention. <br />
-In our age of information and consumption, it is an important skill to set ones priorities and act accordingly. We hope this app helps you develop a feeling for what you truely want to focus on.
+In our age of information and consumption, it is an important skill to set ones priorities and act accordingly. Hopefully, this app helps you develop a feeling for what you truely want to focus on.
