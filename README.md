@@ -3,7 +3,7 @@
 The app is optimized for mobile use.
 
 ## Aim
-The app allow you to track your activities through the day and log how much wellbeing (not pleasure!) it resulted in. <br />
+The app enables you to track your activities through the day and log how much wellbeing (not pleasure!) it resulted in. <br />
 Hopefully, this can help you find out what you want to spend your time in and what to reduce or cut out of your life.
 
 ## Theory
